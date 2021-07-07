@@ -1,6 +1,6 @@
 jsonschema==1.7
 PyJWT==1.0
-pyotp==2.7
+pyotp==1.7
 qrcode==3.0
 requests==3.0
 cryptography==1.0
